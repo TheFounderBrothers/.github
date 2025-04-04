@@ -2,4 +2,4 @@
 
 we are the ##Tethics Electrics Group
 
-![Project Logo](assets/image.png)
+![Project Logo](img.png)
