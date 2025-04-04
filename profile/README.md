@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###we are the 
+### We are the 
 ## Tethics Electrics Group
 
 ![Project Logo](img.png)
